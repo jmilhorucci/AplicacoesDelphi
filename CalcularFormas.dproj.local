@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/09/16 23:11:58.000.704,=C:\Users\Juliano Victor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/09/16 23:12:31.000.302,C:\Users\Juliano Victor\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untPrincipal.pas</Transaction>
+    <Transaction>2018/09/16 23:12:31.000.302,C:\Users\Juliano Victor\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untPrincipal.dfm</Transaction>
+    <Transaction>2018/09/16 23:12:45.000.359,C:\Users\Juliano Victor\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\CalcularFormas.dproj</Transaction>
+    <Transaction>2018/09/16 23:16:52.000.280,=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/16 23:17:13.000.708,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.dfm=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untRetangulo.dfm</Transaction>
+    <Transaction>2018/09/16 23:17:13.000.708,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untRetangulo.pas</Transaction>
+    <Transaction>2018/09/16 23:22:17.000.758,=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/16 23:23:16.000.084,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untCirculo.pas</Transaction>
+    <Transaction>2018/09/16 23:23:16.000.084,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.dfm=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untCirculo.dfm</Transaction>
+    <Transaction>2018/09/16 23:27:10.000.019,=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/16 23:28:03.000.838,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untQuadrado.dfm=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.dfm</Transaction>
+    <Transaction>2018/09/16 23:28:03.000.838,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untQuadrado.pas=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/16 23:28:17.000.451,=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/16 23:28:58.000.544,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untTriangulo.dfm=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.dfm</Transaction>
+    <Transaction>2018/09/16 23:28:58.000.544,C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\untTriangulo.pas=C:\Users\Juliano Victor\Desktop\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/18 01:13:21.000.739,=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/18 01:13:47.000.443,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untDividendo.pas=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/18 01:13:47.000.443,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untDividendo.dfm=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit1.dfm</Transaction>
+    <Transaction>2018/09/18 01:26:23.000.582,=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit2.pas</Transaction>
+    <Transaction>2018/09/18 01:27:34.000.361,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit2.pas=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untMaxMin.pas</Transaction>
+    <Transaction>2018/09/18 01:27:34.000.361,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit2.dfm=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untMaxMin.dfm</Transaction>
+    <Transaction>2018/09/19 00:30:02.000.378,=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit2.pas</Transaction>
+    <Transaction>2018/09/19 00:34:46.000.565,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit2.pas=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untNumMaior.pas</Transaction>
+    <Transaction>2018/09/19 00:34:46.000.565,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit2.dfm=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untNumMaior.dfm</Transaction>
+    <Transaction>2018/09/19 00:52:05.000.718,=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/09/19 00:54:10.000.899,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit1.dfm=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untNumPares.dfm</Transaction>
+    <Transaction>2018/09/19 00:54:10.000.899,F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\Unit1.pas=F:\Técnico em DS\Wagner\Atividade Wagner\Desafio2.0\untNumPares.pas</Transaction>
+    <Transaction>2018/10/27 15:11:21.000.750,=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/10/27 15:14:16.000.724,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untCalcIMC.pas</Transaction>
+    <Transaction>2018/10/27 15:14:16.000.724,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.dfm=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untCalcIMC.dfm</Transaction>
+    <Transaction>2018/10/28 13:47:13.000.209,=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/10/28 14:39:01.000.792,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untOpcoesTriangulo.pas</Transaction>
+    <Transaction>2018/10/28 14:39:01.000.792,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.dfm=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untOpcoesTriangulo.dfm</Transaction>
+    <Transaction>2018/10/28 15:23:58.000.430,=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/10/28 16:01:49.000.488,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.dfm=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untTipoTriangulo.dfm</Transaction>
+    <Transaction>2018/10/28 16:01:49.000.488,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untTipoTriangulo.pas</Transaction>
+    <Transaction>2018/10/29 14:37:27.899,=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas</Transaction>
+    <Transaction>2018/10/29 15:02:10.484,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untOpcoesMaiorMenor.dfm=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.dfm</Transaction>
+    <Transaction>2018/10/29 15:02:10.484,F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\untOpcoesMaiorMenor.pas=F:\Técnico em DS\Wagner\Atividade Wagner (Novo)\Desafio2.0\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

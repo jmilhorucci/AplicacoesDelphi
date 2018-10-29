@@ -1,0 +1,111 @@
+object frmTriangulo: TfrmTriangulo
+  Left = 0
+  Top = 0
+  Caption = 'Tri'#226'ngulo'
+  ClientHeight = 226
+  ClientWidth = 326
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -15
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 18
+  object Label4: TLabel
+    Left = 84
+    Top = 25
+    Width = 163
+    Height = 18
+    Caption = #193'REA DO TRI'#194'NGULO'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 8
+    Top = 56
+    Width = 36
+    Height = 18
+    Caption = 'Base'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label3: TLabel
+    Left = 8
+    Top = 109
+    Width = 75
+    Height = 18
+    Caption = 'Resultado'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label1: TLabel
+    Left = 181
+    Top = 56
+    Width = 46
+    Height = 18
+    Caption = 'Altura'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object edtBase: TEdit
+    Left = 8
+    Top = 80
+    Width = 137
+    Height = 26
+    TabOrder = 0
+    OnChange = edtBaseChange
+    OnKeyPress = edtBaseKeyPress
+  end
+  object edtResultado: TEdit
+    Left = 8
+    Top = 133
+    Width = 310
+    Height = 26
+    Enabled = False
+    ReadOnly = True
+    TabOrder = 1
+  end
+  object edtAltura: TEdit
+    Left = 181
+    Top = 80
+    Width = 137
+    Height = 26
+    TabOrder = 2
+    OnChange = edtAlturaChange
+    OnKeyPress = edtAlturaKeyPress
+  end
+  object btnLimpar: TBitBtn
+    Left = 8
+    Top = 186
+    Width = 310
+    Height = 32
+    Caption = 'LIMPAR'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Tahoma'
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 3
+    OnClick = btnLimparClick
+  end
+end
